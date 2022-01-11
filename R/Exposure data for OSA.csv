@@ -1,0 +1,6 @@
+﻿SNP,beta,se,pval,effect_allele,other_allele,Phenotype,eaf,gene
+rs9937053,0.102,0.0125,4.32E-16,A,G,obstructive sleep apnea,0.4298,FTO
+rs10507084,0.1085,0.0163,2.80E-11,T,C,obstructive sleep apnea,0.1793,NEDD1
+rs185932673,0.6244,0.112,2.44E-08,T,C,obstructive sleep apnea,0.003314,CAMK1D
+rs4837016,-0.0706,0.0125,1.53E-08,A,G,obstructive sleep apnea,0.4662,GAPVD1
+rs10928560,-0.0878,0.0158,2.80E-08,T,C,obstructive sleep apnea,0.1949,CXCR4
